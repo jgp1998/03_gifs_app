@@ -31,6 +31,7 @@ export const GifsApp = () => {
                 subtitle="Busquedas Previas"
                 searches={previousTerms}
             />
+            
             <GiftList
                 gifs={gifs}
             />
