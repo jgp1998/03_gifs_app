@@ -26,4 +26,3 @@ dist-ssr
 .env
 
 coverage/
-src/**/__snapshots__/
